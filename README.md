@@ -2,12 +2,6 @@
 
 This is a simple weather app built with React that uses an API to fetch temperature data for a user-specified city and display it to the user.
 
-# Installation
-To install the application, follow these steps:
-
-Clone the repository to your local machine.
-Navigate to the project directory.
-Run npm install to install the dependencies.
 
 # Configuration
 To configure the application, you will need to provide an API key. Follow these steps:
